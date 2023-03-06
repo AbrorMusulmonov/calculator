@@ -13,7 +13,7 @@ Console.WriteLine($"Dividing: {firstNumber/secondNumber}");
 Console.WriteLine("************************************************");
 //Tech Comparision
 Console.WriteLine($"1st number is greater than 2nd number: {firstNumber>secondNumber}");
-Console.WriteLine($"1st number is greater than 2nd number: {firstNumber<secondNumber}");
+Console.WriteLine($"2nd number is greater than 1st number: {firstNumber<secondNumber}");
 Console.WriteLine($"1st number is equal to 2nd number: {firstNumber==secondNumber}");
 Console.WriteLine($"1st number is not equal to 2nd number: {firstNumber!=secondNumber}");
 
